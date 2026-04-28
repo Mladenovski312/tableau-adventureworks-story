@@ -40,7 +40,7 @@ Published to Tableau Public. See `REPORT_LINK.txt` for the current URL.
 ## Repository structure
 
 ```
-Tableau_Challenge_Solved.twb    # Tableau workbook, open with Tableau Desktop or Reader
+adventureworks-sales.twb        # Tableau workbook, open with Tableau Desktop or Reader
 REPORT_LINK.txt                 # Tableau Public story URL
 screenshots/                    # view exports
 ```
